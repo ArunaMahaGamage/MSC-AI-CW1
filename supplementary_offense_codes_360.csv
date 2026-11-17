@@ -1,0 +1,361 @@
+Offense Code,Crime Name 3,NIBRS Code,Crime Name 2,Crime Name 1,Record_Count,Share (%)
+2305,LARCENY - FROM AUTO,23F,Theft From Motor Vehicle,Crime Against Property,41308,8.13
+2303,LARCENY - SHOPLIFTING,23C,Shoplifting,Crime Against Property,35011,6.89
+9199,POLICE INFORMATION,90Z,All Other Offenses,Crime Against Society,33174,6.53
+1399,ASSAULT - 2ND DEGREE,13B,Simple Assault,Crime Against Person,31826,6.26
+2399,LARCENY (DESCRIBE OFFENSE),23H,All other Larceny,Crime Against Property,20699,4.07
+2902,DAMAGE PROPERTY - PRIVATE,290,Destruction/Damage/Vandalism of Property,Crime Against Property,19814,3.9
+9113,MENTAL ILLNESS - EMERGENCY PETITION,90Z,All Other Offenses,Crime Against Society,19739,3.88
+5404,DRIVING UNDER THE INFLUENCE LIQUOR,90D,Driving Under the Influence,Crime Against Society,19420,3.82
+9105,LOST PROPERTY,90Z,All Other Offenses,Crime Against Society,17917,3.53
+2404,AUTO THEFT - VEHICLE THEFT,240,Motor Vehicle Theft,Crime Against Property,17262,3.4
+2308,LARCENY - FROM BLDG,23D,Theft from Building,Crime Against Property,17006,3.35
+3562,DRUGS - MARIJUANA - POSSESS,35A,Drug/Narcotic Violations,Crime Against Society,16930,3.33
+2304,LARCENY - AUTO PARTS,23G,Theft of Motor Vehicle Parts or Accessories,Crime Against Property,14401,2.83
+2610,IDENTITY THEFT,26F,Identity Theft,Crime Against Property,13545,2.67
+9101,SUDDEN DEATH,90Z,All Other Offenses,Crime Against Society,10021,1.97
+2605,FRAUD - ILLEGAL USE CREDIT CARDS,26B,Credit Card/Automatic Teller Machine Fraud,Crime Against Property,8276,1.63
+9107,MISSING PERSON,90Z,All Other Offenses,Crime Against Society,7496,1.48
+2999,DAMAGE PROPERTY (DESCRIBE OFFENSE),290,Destruction/Damage/Vandalism of Property,Crime Against Property,7437,1.46
+5707,TRESPASSING,90J,Trespass of Real Property,Crime Against Society,6334,1.25
+5311,PUBLIC PEACE - DISORDERLY CONDUCT,90C,Disorderly Conduct,Crime Against Society,6228,1.23
+9021,JUVENILE - RUNAWAY,90I,Runaway,Crime Against Not a Crime,6143,1.21
+4104,LIQUOR - POSSESS,90G,Liquor Law Violations,Crime Against Society,5538,1.09
+1313,ASSAULT - SIMPLE,13B,Simple Assault,Crime Against Person,5344,1.05
+2202,BURGLARY - FORCED ENTRY-RESIDENTIAL,220,Burglary/Breaking and Entering,Crime Against Property,5238,1.03
+2601,FRAUD - CONFIDENCE GAME,26A,False Pretenses/Swindle/Confidence Game,Crime Against Property,4859,0.96
+9108,RECOVERED PROPERTY - MONT CO.,90Z,All Other Offenses,Crime Against Society,4293,0.84
+2699,FRAUD (DESCRIBE OFFENSE),26A,False Pretenses/Swindle/Confidence Game,Crime Against Property,3970,0.78
+2901,DAMAGE PROPERTY - BUSINESS,290,Destruction/Damage/Vandalism of Property,Crime Against Property,3760,0.74
+9106,MENTAL ILLNESS,90Z,All Other Offenses,Crime Against Society,3652,0.72
+2203,BURGLARY - FORCED ENTRY-NONRESIDENTIAL,220,Burglary/Breaking and Entering,Crime Against Property,3613,0.71
+2204,BURGLARY - NO FORCED ENTRY-RESIDENTIAL,220,Burglary/Breaking and Entering,Crime Against Property,3494,0.69
+9109,RECOVERED PROPERTY - OTHER,90Z,All Other Offenses,Crime Against Society,3345,0.66
+3550,DRUGS - NARCOTIC EQUIP - POSSESS,35B,Drug Equipment Violations,Crime Against Society,3277,0.64
+3532,DRUGS - COCAINE - POSSESS,35A,Drug/Narcotic Violations,Crime Against Society,2813,0.55
+2501,FORGERY OF CHECKS,250,Counterfeiting/Forgery,Crime Against Property,2672,0.53
+1103,RAPE - STRONG-ARM,11A,Forcible Rape,Crime Against Person,2569,0.51
+9099,ALL OTHER OFFENSES,90Z,All Other Offenses,Crime Against Society,2548,0.5
+5016,OBSTRUCT GOVT - VIOLATION OF A COURT ORDER,90Z,All Other Offenses,Crime Against Society,2287,0.45
+5309,PUBLIC PEACE - HARASSING COMMUNICATION,90Z,All Other Offenses,Crime Against Society,2263,0.45
+1305,ASSAULT - AGGRAVATED - NON-FAMILY-OTHER WEAPON,13A,Aggravated Assault,Crime Against Person,1921,0.38
+5212,WEAPON - POSSESSION,520,Weapon Law Violations,Crime Against Society,1877,0.37
+4199,LIQUOR (DESCRIBE OFFENSE),90G,Liquor Law Violations,Crime Against Society,1855,0.37
+2604,FRAUD - IMPERSONATION,26C,Impersonation,Crime Against Property,1848,0.36
+2411,UNAUTHORIZED USE OF VEHICLE (INCLUDES JOY RIDING),90Z,All Other Offenses,Crime Against Society,1635,0.32
+2602,FRAUD - SWINDLE,26A,False Pretenses/Swindle/Confidence Game,Crime Against Property,1560,0.31
+3522,DRUGS - OPIUM OR DERIVATIVE - POSSESS,35A,Drug/Narcotic Violations,Crime Against Society,1396,0.27
+2316,LARCENY - POSTAL,23H,All other Larceny,Crime Against Property,1391,0.27
+9201,OVERDOSE,90Z,All Other Offenses,Crime Against Society,1382,0.27
+1315,ASSAULT - AGGRAVATED - OTHER,13A,Aggravated Assault,Crime Against Person,1302,0.26
+1199,SEX ASSAULT - FONDLING,11D,Forcible Fondling,Crime Against Person,1270,0.25
+4801,OBSTRUCT POLICE - RESISTING OFFICER,90Z,All Other Offenses,Crime Against Society,1239,0.24
+5202,WEAPON - CONCEALED,520,Weapon Law Violations,Crime Against Society,1205,0.24
+9042,SUICIDE - ATTEMPT,90Z,All Other Offenses,Crime Against Society,1196,0.24
+1206,ROBBERY - STREET-STRONG-ARM,120,Robbery,Crime Against Property,1137,0.22
+1302,ASSAULT - AGGRAVATED - FAMILY-OTHER WEAPON,13A,Aggravated Assault,Crime Against Person,1133,0.22
+2301,LARCENY - POCKET PICKING,23A,Pocket/picking,Crime Against Property,1124,0.22
+9112,MENTAL TRANSPORT - ONLY,90Z,All Other Offenses,Crime Against Society,1090,0.21
+1303,ASSAULT - AGGRAVATED - FAMILY-STRONG-ARM,13A,Aggravated Assault,Crime Against Person,1065,0.21
+2903,DAMAGE PROPERTY - PUBLIC,290,Destruction/Damage/Vandalism of Property,Crime Against Property,1045,0.21
+2205,BURGLARY - NO FORCED ENTRY-NONRESIDENTIAL,220,Burglary/Breaking and Entering,Crime Against Property,1031,0.2
+3560,DRUGS - MARIJUANA - SELL,35A,Drug/Narcotic Violations,Crime Against Society,1029,0.2
+1314,ASSAULT - AGGRAVATED - GUN,13A,Aggravated Assault,Crime Against Person,1029,0.2
+2299,BURGLARY (DESCRIBE OFFENSE),220,Burglary/Breaking and Entering,Crime Against Property,1005,0.2
+3700,OBSCENE MATERIAL,370,Pornography/Obscene Material,Crime Against Society,990,0.19
+5403,DRIVING UNDER THE INFLUENCE DRUGS,90D,Driving Under the Influence,Crime Against Society,981,0.19
+9061,FUGITIVE FROM MD JURISDICTION,90Z,All Other Offenses,Crime Against Society,942,0.19
+3530,DRUGS - COCAINE - SELL,35A,Drug/Narcotic Violations,Crime Against Society,855,0.17
+9062,FUGITIVE FROM JUSTICE (OUT OF STATE),90Z,All Other Offenses,Crime Against Society,828,0.16
+1216,ROBBERY - STRONG ARM,120,Robbery,Crime Against Property,811,0.16
+2309,LARCENY - FROM YARDS,23H,All other Larceny,Crime Against Property,798,0.16
+3699,SEX OFFENSE - FONDLING,11D,Forcible Fondling,Crime Against Person,782,0.15
+3605,SEX OFFENSE - INDECENT EXPOSURE,90C,Disorderly Conduct,Crime Against Society,765,0.15
+2302,LARCENY - PURSE SNATCHING - NO FORCE,23B,Purse-snatching,Crime Against Property,673,0.13
+3806,FAMILY OFFENSE - NEGLECT CHILD (INCLUDES NONSUPPOR,90F,"Family Offenses, NonViolent",Crime Against Society,652,0.13
+4102,LIQUOR - SELL,90G,Liquor Law Violations,Crime Against Society,650,0.13
+2499,STOLEN VEHICLE (DESCRIBE OFFENSE),240,Motor Vehicle Theft,Crime Against Property,650,0.13
+3601,SEX OFFENSE - AGAINST CHILD-FONDLING,11D,Forcible Fondling,Crime Against Person,647,0.13
+2799,EMBEZZLE (DESCRIBE OFFENSE),270,Embezzlement,Crime Against Property,641,0.13
+5213,WEAPON - FIRING,520,Weapon Law Violations,Crime Against Society,624,0.12
+3572,DRUGS - AMPHETAMINE - POSSESS,35A,Drug/Narcotic Violations,Crime Against Society,618,0.12
+9041,SUICIDE - COMPLETED,90Z,All Other Offenses,Crime Against Society,618,0.12
+3504,DRUGS - HALLUCINOGEN - POSSESS,35A,Drug/Narcotic Violations,Crime Against Society,618,0.12
+3564,DRUGS - MARIJUANA (DESCRIBE OFFENSE),35A,Drug/Narcotic Violations,Crime Against Society,611,0.12
+3512,DRUGS - HEROIN - POSSESS,35A,Drug/Narcotic Violations,Crime Against Society,604,0.12
+9003,SEX ASSAULT - WITH AN OBJECT,11A,Forcible Rape,Crime Against Person,598,0.12
+1213,ROBBERY - GUN,120,Robbery,Crime Against Property,581,0.11
+4899,OBSTRUCT POLICE (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,552,0.11
+9104,FIRE (NOT ARSON),90Z,All Other Offenses,Crime Against Society,534,0.11
+2589,FORGERY (DESCRIBE OFFENSE),250,Counterfeiting/Forgery,Crime Against Property,534,0.11
+2310,LARCENY - FROM MALLS,23D,Theft from Building,Crime Against Property,531,0.1
+1316,ASSAULT - INTIMIDATION (INCLUDES STALKING),13C,Intimidation,Crime Against Person,531,0.1
+1204,ROBBERY - STREET-GUN,120,Robbery,Crime Against Property,524,0.1
+1214,ROBBERY - KNIFE,120,Robbery,Crime Against Property,496,0.1
+5499,TRAFFIC OFFENSES (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,487,0.1
+3615,SEX OFFENSE - INDECENT EXPOSURE TO ADULT,90C,Disorderly Conduct,Crime Against Society,480,0.09
+2608,FRAUD BY WIRE,26E,Wire Fraud,Crime Against Property,473,0.09
+1306,ASSAULT - AGGRAVATED - NON-FAMILY-STRONG-ARM,13A,Aggravated Assault,Crime Against Person,462,0.09
+4802,OBSTRUCT POLICE - OBSTRUCT CRIMINAL INVEST,90Z,All Other Offenses,Crime Against Society,446,0.09
+3542,DRUGS - SYNTHETIC NARCOTIC - POSSESS,35A,Drug/Narcotic Violations,Crime Against Society,446,0.09
+1304,ASSAULT - AGGRAVATED - NON-FAMILY-GUN,13A,Aggravated Assault,Crime Against Person,435,0.09
+2606,FRAUD - INSUFFICIENT FUNDS CHECK,90Z,All Other Offenses,Crime Against Society,420,0.08
+9053,LITTERING/TRASH DUMPING,90Z,All Other Offenses,Crime Against Society,413,0.08
+1114,SEX ASSAULT - SODOMY-GIRL-STRONG-ARM,11A,Forcible Rape,Crime Against Person,377,0.07
+2505,COUNTERFEITING - PASS COUNTERFEITED,250,Counterfeiting/Forgery,Crime Against Property,366,0.07
+9056,FRAUD - FAILURE TO PAY,26A,False Pretenses/Swindle/Confidence Game,Crime Against Property,358,0.07
+1117,SEX ASSAULT - CARNAL ABUSE,11D,Forcible Fondling,Crime Against Person,352,0.07
+1201,ROBBERY - BUSINESS-GUN,120,Robbery,Crime Against Property,346,0.07
+3802,FAMILY OFFENSE - CRUELTY TOWARD CHILD,90F,"Family Offenses, NonViolent",Crime Against Society,342,0.07
+1212,ROBBERY - CARJACKING - ARMED,120,Robbery,Crime Against Property,341,0.07
+5299,WEAPON OFFENSE (DESCRIBE OFFENSE),520,Weapon Law Violations,Crime Against Society,327,0.06
+2199,EXTORTION (DESCRIBE OFFENSE),210,Extortion/Blackmail,Crime Against Property,327,0.06
+2502,FORGERY OF OTHER,250,Counterfeiting/Forgery,Crime Against Property,319,0.06
+9023,JUVENILE - OTHER,90Z,All Other Offenses,Crime Against Society,288,0.06
+4004,COMM SEX OFF - PROSTITUTION,40A,Prostitution,Crime Against Society,281,0.06
+2007,ARSON - BURNING OF - (IDENTIFY OBJECT),200,Arson,Crime Against Property,267,0.05
+5399,PUBLIC PEACE (DESCRIBE OFFENSE),90C,Disorderly Conduct,Crime Against Society,264,0.05
+3520,DRUGS - OPIUM OR DERIVATIVE - SELL,35A,Drug/Narcotic Violations,Crime Against Society,251,0.05
+2103,EXTORT - THREAT INJURE REPUTATION,210,Extortion/Blackmail,Crime Against Property,247,0.05
+3533,DRUGS - COCAINE (DESCRIBE OFFENSE),35A,Drug/Narcotic Violations,Crime Against Society,243,0.05
+3612,SEX OFFENSE - FAILURE TO REGISTER AS A SEX OFFENDE,90Z,All Other Offenses,Crime Against Society,237,0.05
+1115,SEX ASSAULT - SODOMY-WOMAN-STRONG-ARM,11A,Forcible Rape,Crime Against Person,235,0.05
+3599,DRUGS - DANGEROUS (DESCRIBE OFFENSE),35A,Drug/Narcotic Violations,Crime Against Society,235,0.05
+2504,FORGERY - PASS FORGED,250,Counterfeiting/Forgery,Crime Against Property,230,0.05
+1602,THREAT - TERRORISTIC - STATE OFFENSES,90Z,All Other Offenses,Crime Against Society,219,0.04
+1205,ROBBERY - STREET-OTHER WEAPON,120,Robbery,Crime Against Property,204,0.04
+1299,ROBBERY (DESCRIBE OFFENSE),120,Robbery,Crime Against Property,202,0.04
+3707,OBSCENE COMMUNICATION,90Z,All Other Offenses,Crime Against Society,197,0.04
+3582,DRUGS - BARBITURATE - POSSESS,35A,Drug/Narcotic Violations,Crime Against Society,193,0.04
+2503,COUNTERFEITING,250,Counterfeiting/Forgery,Crime Against Property,183,0.04
+1207,ROBBERY - RESIDENTIAL-GUN,120,Robbery,Crime Against Property,181,0.04
+3611,SEX OFFENSE - PEEPING TOM,90Z,All Other Offenses,Crime Against Society,180,0.04
+1203,ROBBERY - BUSINESS-STRONG-ARM,120,Robbery,Crime Against Property,179,0.04
+1202,ROBBERY - BUSINESS-OTHER WEAPON,120,Robbery,Crime Against Property,167,0.03
+3614,SEX OFFENSE - INDECENT EXPOSURE TO MINOR,90C,Disorderly Conduct,Crime Against Society,164,0.03
+1209,ROBBERY - RESIDENTIAL-STRONG-ARM,120,Robbery,Crime Against Property,162,0.03
+3705,OBSCENE MATERIAL - DISTRIBUTE,370,Pornography/Obscene Material,Crime Against Society,161,0.03
+1116,STATUTORY RAPE - NO FORCE,36B,Statuory Rape,Crime Against Person,160,0.03
+3523,DRUGS - OPIUM OR DERIVATIVE (DESCRIBE OFFENSE),35A,Drug/Narcotic Violations,Crime Against Society,159,0.03
+2609,FRAUD AND ABUSE - COMPUTER,26A,False Pretenses/Swindle/Confidence Game,Crime Against Property,156,0.03
+9103,ANIMAL CRUELTY,720,Animal Cruelty,Crime Against Society,156,0.03
+4803,OBSTRUCT POLICE - MAKING FALSE REPORT,90Z,All Other Offenses,Crime Against Society,154,0.03
+9031,DRUNKENNESS,90Z,All Other Offenses,Crime Against Society,152,0.03
+2101,EXTORT - THREAT INJURE PERSON,210,Extortion/Blackmail,Crime Against Property,151,0.03
+1217,ROBBERY - DOMESTIC,120,Robbery,Crime Against Property,149,0.03
+3899,FAMILY OFFENSE (DESCRIBE OFFENSE),90F,"Family Offenses, NonViolent",Crime Against Society,148,0.03
+1301,ASSAULT - AGGRAVATED - FAMILY-GUN,13A,Aggravated Assault,Crime Against Person,146,0.03
+2611,FRAUD - HACKING/COMPUTER INVASION,26G,Hacking/Computer Invasion,Crime Against Property,138,0.03
+2311,LARCENY - FROM BANKING-TYPE INST,23D,Theft from Building,Crime Against Property,137,0.03
+1112,SEX ASSAULT - SODOMY-BOY-STRONG-ARM,11A,Forcible Rape,Crime Against Person,133,0.03
+2408,AUTO THEFT - POSSESS STOLEN VEHICLE,280,Stolen Property Offenses,Crime Against Property,132,0.03
+2701,EMBEZZLE - BUSINESS PROP,270,Embezzlement,Crime Against Property,132,0.03
+5215,WEAPON - THREAT TO BOMB,13C,Intimidation,Crime Against Person,131,0.03
+9002,ROBBERY - CARJACKING - STRONG-ARM,120,Robbery,Crime Against Property,129,0.03
+2599,COUNTERFEITING (DESCRIBE OFFENSE),250,Counterfeiting/Forgery,Crime Against Property,129,0.03
+3613,SEX OFFENSE - SEX OFFENDER REGISTRATION VIOLATION,90Z,All Other Offenses,Crime Against Society,119,0.02
+3571,DRUGS - AMPHETAMINE - SELL,35A,Drug/Narcotic Violations,Crime Against Society,114,0.02
+2099,ARSON (DESCRIBE OFFENSE),200,Arson,Crime Against Property,114,0.02
+1215,ROBBERY - OTHER WEAPON,120,Robbery,Crime Against Property,113,0.02
+4008,COMM SEX OFF - PROCURE PROSTITUTE - ADULT,40B,Assisting or Promoting Prostitution,Crime Against Society,113,0.02
+2006,ARSON - RESIDENTIAL,200,Arson,Crime Against Property,110,0.02
+3801,FAMILY OFFENSE - NEGLECT FAMILY,90F,"Family Offenses, NonViolent",Crime Against Society,109,0.02
+3510,DRUGS - HEROIN - SELL,35A,Drug/Narcotic Violations,Crime Against Society,106,0.02
+2804,STOLEN PROPERTY - POSSESS,280,Stolen Property Offenses,Crime Against Property,105,0.02
+3513,DRUGS - HEROIN - (DESCRIBE OFFENSE),35A,Drug/Narcotic Violations,Crime Against Society,103,0.02
+1311,ASSAULT - AGGRAVATED - POL OFF-OTHER WEAPON,13A,Aggravated Assault,Crime Against Person,101,0.02
+5006,OBSTRUCT GOVT - OBSTRUCTING JUSTICE,90Z,All Other Offenses,Crime Against Society,95,0.02
+6411,HUMAN TRAFFICKING - COMMERCIAL SEX ACTS,64A,"Human Trafficking, Commercial Sex Acts",Crime Against Person,94,0.02
+7399,PUBLIC ORDER CRIMES,90Z,All Other Offenses,Crime Against Society,93,0.02
+2607,FRAUD - FALSE STATEMENT,26A,False Pretenses/Swindle/Confidence Game,Crime Against Property,92,0.02
+2306,LARCENY - FROM SHIPMENT,23H,All other Larceny,Crime Against Property,89,0.02
+2307,LARCENY - FROM COIN MACHINE,23E,From Coin/Operated Machine or Device,Crime Against Property,87,0.02
+3503,DRUGS - HALLUCINOGEN - SELL,35A,Drug/Narcotic Violations,Crime Against Society,84,0.02
+5007,OBSTRUCT GOVT - OBSTRUCTING COURT ORDER,90Z,All Other Offenses,Crime Against Society,84,0.02
+9110,SOLICITATION - MINOR FOR SEXUAL ACTS,90Z,All Other Offenses,Crime Against Society,84,0.02
+2507,COUNTERFEITING - POSS COUNTERFEITED,250,Counterfeiting/Forgery,Crime Against Property,83,0.02
+5401,HIT AND RUN,90Z,All Other Offenses,Crime Against Society,83,0.02
+9102,ANIMAL BITE,90Z,All Other Offenses,Crime Against Society,83,0.02
+2703,EMBEZZLE - BANKING-TYPE INST,270,Embezzlement,Crime Against Property,79,0.02
+1113,SEX ASSAULT - SODOMY-MAN-STRONG-ARM,11A,Forcible Rape,Crime Against Person,78,0.02
+9052,FIRE CODE VIOLATION,90Z,All Other Offenses,Crime Against Society,78,0.02
+0911,HOMICIDE - WILLFUL KILL-GUN,09A,Murder and Nonnegligent Manslaughter,Crime Against Person,76,0.01
+1308,ASSAULT - AGGRAVATED - PUB OFF-OTHER WEAPON,13A,Aggravated Assault,Crime Against Person,75,0.01
+2603,FRAUD - MAIL,26A,False Pretenses/Swindle/Confidence Game,Crime Against Property,74,0.01
+5203,CARRYING PROHIBITED WEAPON (SPECIFY WEAPON),520,Weapon Law Violations,Crime Against Society,74,0.01
+1211,ROBBERY - BANKING-TYPE INST,120,Robbery,Crime Against Property,73,0.01
+3540,DRUGS - SYNTHETIC NARCOTIC - SELL,35A,Drug/Narcotic Violations,Crime Against Society,71,0.01
+2206,BURGLARY TOOLS - POSSESS,90Z,All Other Offenses,Crime Against Society,67,0.01
+3505,DRUGS - HALLUCINOGEN (DESCRIBE OFFENSE),35A,Drug/Narcotic Violations,Crime Against Society,67,0.01
+5318,VIOLATION OF EMERGENCY ORDER - OTHER,90Z,All Other Offenses,Crime Against Society,64,0.01
+3704,OBSCENE MATERIAL - POSSESS,370,Pornography/Obscene Material,Crime Against Society,64,0.01
+2899,STOLEN PROPERTY (DESCRIBE OFFENSE),280,Stolen Property Offenses,Crime Against Property,61,0.01
+2002,ARSON - RESIDENTIAL-ENDANGERED LIFE,200,Arson,Crime Against Property,60,0.01
+3561,DRUGS - MARIJUANA - SMUGGLE,35A,Drug/Narcotic Violations,Crime Against Society,59,0.01
+1208,ROBBERY - RESIDENTIAL-OTHER WEAPON,120,Robbery,Crime Against Property,54,0.01
+9055,FRAUD - WELFARE,26D,Welfare Fraud,Crime Against Property,51,0.01
+1006,KIDNAP ADULT,100,Kidnapping/Abduction,Crime Against Person,50,0.01
+0999,HOMICIDE (DESCRIBE OFFENSE),09A,Murder and Nonnegligent Manslaughter,Crime Against Person,50,0.01
+3543,DRUGS - SYNTHETIC NARCOTIC - (DESCRIBE OFFENSE),35A,Drug/Narcotic Violations,Crime Against Society,47,0.01
+1102,RAPE WITH WEAPON,11A,Forcible Rape,Crime Against Person,45,0.01
+9054,LOITERING/VAGRANCY,90B,Curfew/Loitering/Vagrancy Violations,Crime Against Society,45,0.01
+2506,FORGERY - POSSESS FORGED,250,Counterfeiting/Forgery,Crime Against Property,45,0.01
+1210,ROBBERY - FORCIBLE PURSE SNATCHING,120,Robbery,Crime Against Property,44,0.01
+3502,DRUGS - HALLUCINOGEN - DISTRIB,35A,Drug/Narcotic Violations,Crime Against Society,43,0.01
+2104,EXTORT - THREAT ACCUSE PERSON OF CRIME,210,Extortion/Blackmail,Crime Against Property,39,0.01
+0912,HOMICIDE - WILLFUL KILL,09A,Murder and Nonnegligent Manslaughter,Crime Against Person,38,0.01
+2401,AUTO THEFT - THEFT AND SALE VEHICLE,240,Motor Vehicle Theft,Crime Against Property,38,0.01
+1317,ATTEMPTED ASSAULT AGGRAVATED POL OFF KNIFE,13A,Aggravated Assault,Crime Against Person,37,0.01
+8100,ESCAPE FROM CUSTODY,90Z,All Other Offenses,Crime Against Society,37,0.01
+3573,DRUGS - AMPHETAMINE (DESCRIBE OFFENSE),35A,Drug/Narcotic Violations,Crime Against Society,34,0.01
+2403,AUTO THEFT - THEFT AND USE VEHICLE OTHER CRIME,240,Motor Vehicle Theft,Crime Against Property,32,0.01
+2005,ARSON - BUSINESS,200,Arson,Crime Against Property,31,0.01
+1312,ASSAULT - AGGRAVATED - POL OFF-STRONG-ARM,13A,Aggravated Assault,Crime Against Person,31,0.01
+3563,DRUGS - MARIJUANA - PRODUCING,35A,Drug/Narcotic Violations,Crime Against Society,30,0.01
+3581,DRUGS - BARBITURATE - SELL,35A,Drug/Narcotic Violations,Crime Against Society,28,0.01
+1099,KIDNAPPING (DESCRIBE OFFENSE),100,Kidnapping/Abduction,Crime Against Person,27,0.01
+4099,COMM SEX OFF (DESCRIBE OFFENSE),40B,Assisting or Promoting Prostitution,Crime Against Society,27,0.01
+2201,BURGLARY - SAFE-VAULT,220,Burglary/Breaking and Entering,Crime Against Property,26,0.01
+4804,OBSTRUCT POLICE - EVIDENCE - DESTROYING,90Z,All Other Offenses,Crime Against Society,26,0.01
+1020,FALSE IMPRISONMENT - MINOR - NONPARENTAL,90Z,All Other Offenses,Crime Against Society,26,0.01
+1101,RAPE - GUN,11A,Forcible Rape,Crime Against Person,23,0.0
+9111,SOLICITATION - ADULT FOR SEXUAL ACTS,90Z,All Other Offenses,Crime Against Society,23,0.0
+5211,WEAPON - EXPLOSIVES - POSSESSING,520,Weapon Law Violations,Crime Against Society,22,0.0
+5599,HEALTH - SAFETY (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,21,0.0
+1005,KIDNAP MINOR,100,Kidnapping/Abduction,Crime Against Person,21,0.0
+2905,DAMAGE PROPERTY - PRIVATE-WITH EXPLOSIVE,290,Destruction/Damage/Vandalism of Property,Crime Against Property,21,0.0
+5216,WEAPON - THREAT TO BURN,13C,Intimidation,Crime Against Person,20,0.0
+9022,JUVENILE - OUT OF CONTROL,90Z,All Other Offenses,Crime Against Society,20,0.0
+1310,ASSAULT - AGGRAVATED - POL OFF-GUN,13A,Aggravated Assault,Crime Against Person,19,0.0
+2001,ARSON - BUSINESS-ENDANGERED LIFE,200,Arson,Crime Against Property,18,0.0
+5799,INVASION PRIVACY (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,17,0.0
+5015,OBSTRUCT GOVT - FAILURE TO APPEAR,90Z,All Other Offenses,Crime Against Society,17,0.0
+3584,DRUGS - INHALE HARMFUL SUBSTANCE,90Z,All Other Offenses,Crime Against Society,17,0.0
+0902,HOMICIDE - WILLFUL KILL-FAMILY,09A,Murder and Nonnegligent Manslaughter,Crime Against Person,16,0.0
+2314,LARCENY - THEFT OF US GOVERNMENT PROPERTY,23H,All other Larceny,Crime Against Property,16,0.0
+2207,BURGLARY - BANKING-TYPE INST,220,Burglary/Breaking and Entering,Crime Against Property,15,0.0
+3604,SEX OFFENSE - INCEST WITH MINOR,36A,Incest,Crime Against Person,15,0.0
+9051,HOME IMPROVEMENT VIOLATION,90Z,All Other Offenses,Crime Against Society,15,0.0
+2402,AUTO THEFT - THEFT AND STRIP VEHICLE,240,Motor Vehicle Theft,Crime Against Property,14,0.0
+3701,OBSCENE MATERIAL - MANUFACTURE,370,Pornography/Obscene Material,Crime Against Society,14,0.0
+4103,LIQUOR - TRANSPORT,90G,Liquor Law Violations,Crime Against Society,13,0.0
+5005,OBSTRUCT GOVT - CONTEMPT OF COURT,90Z,All Other Offenses,Crime Against Society,13,0.0
+2407,AUTO THEFT - STRIP STOLEN VEHICLE,23G,Theft of Motor Vehicle Parts or Accessories,Crime Against Property,13,0.0
+2105,EXTORT - THREAT OF INFORMING OF VIOLENCE,210,Extortion/Blackmail,Crime Against Property,13,0.0
+1309,ASSAULT - AGGRAVATED - PUB OFF-STRONG-ARM,13A,Aggravated Assault,Crime Against Person,12,0.0
+5012,OBSTRUCT GOVT - PROBATION VIOLATION,90Z,All Other Offenses,Crime Against Society,12,0.0
+0901,HOMICIDE - WILLFUL KILL-FAMILY-GUN,09A,Murder and Nonnegligent Manslaughter,Crime Against Person,12,0.0
+9001,HOMICIDE - JUSTIFIABLE,09C,Justifiable Homicide,Crime Against Not a Crime,12,0.0
+5099,"OBSTRUCT - (SPECIFY JUDIC, CONGR, LEGIS, COMMSN)",90Z,All Other Offenses,Crime Against Society,11,0.0
+2008,ARSON - PUB-BLDG-ENDANGERED LIFE,200,Arson,Crime Against Property,11,0.0
+2009,ARSON - PUB-BLDG,200,Arson,Crime Against Property,11,0.0
+2406,RECEIVE STOLEN VEHICLE,280,Stolen Property Offenses,Crime Against Property,11,0.0
+3603,HOMOSEXUAL ACT WITH BOY,11A,Forcible Rape,Crime Against Person,11,0.0
+2508,FORGERY/COUNTERFEITING - POSSESS TOOLS FOR,90Z,All Other Offenses,Crime Against Society,10,0.0
+7299,MORALS - DECENCY CRIMES,90Z,All Other Offenses,Crime Against Society,10,0.0
+1011,KIDNAP MINOR - NONPARENTAL,100,Kidnapping/Abduction,Crime Against Person,10,0.0
+3799,OBSCENITY (DESCRIBE OFFENSE),370,Pornography/Obscene Material,Crime Against Society,10,0.0
+0903,HOMICIDE - WILLFUL KILL-NON-FAMILY-GUN,09A,Murder and Nonnegligent Manslaughter,Crime Against Person,10,0.0
+5208,WEAPON - INCENDIARY DEVICE - USING,520,Weapon Law Violations,Crime Against Society,9,0.0
+5315,VIOLATION OF EMERGENCY ORDER - GATHERING,90Z,All Other Offenses,Crime Against Society,9,0.0
+3531,DRUGS - COCAINE - SMUGGLE,35A,Drug/Narcotic Violations,Crime Against Society,9,0.0
+1307,ASSAULT - AGGRAVATED - PUB OFF-GUN,13A,Aggravated Assault,Crime Against Person,9,0.0
+4901,ESCAPE,90Z,All Other Offenses,Crime Against Society,9,0.0
+3805,FAMILY OFFENSE - CONTRIBUTING TO THE DELINQUENCY O,90Z,All Other Offenses,Crime Against Society,8,0.0
+1109,SEX ASSAULT - SODOMY-MAN-WEAPON,11A,Forcible Rape,Crime Against Person,8,0.0
+5217,WEAPON TRAFFICKING,520,Weapon Law Violations,Crime Against Society,8,0.0
+0904,HOMICIDE - WILLFUL KILL-NON-FAMILY,09A,Murder and Nonnegligent Manslaughter,Crime Against Person,8,0.0
+5206,WEAPON - EXPLOSIVES - USING,520,Weapon Law Violations,Crime Against Society,8,0.0
+3541,DRUGS - SYNTHETIC NARCOTIC - SMUGGLE,35A,Drug/Narcotic Violations,Crime Against Society,8,0.0
+5503,HEALTH - DRUGS - HEALTH OR SAFETY,90Z,All Other Offenses,Crime Against Society,8,0.0
+2803,STOLEN PROPERTY - RECEIVE,280,Stolen Property Offenses,Crime Against Property,8,0.0
+4003,COMM SEX OFF - HOMOSEXUAL PROSTITUTION,40A,Prostitution,Crime Against Society,8,0.0
+4813,FAILING TO MOVE ON,90Z,All Other Offenses,Crime Against Society,7,0.0
+5708,INVASION PRIVACY - WIRETAP - FAILURE TO REPORT,90Z,All Other Offenses,Crime Against Society,7,0.0
+5802,SMUGGLING - CONTRABAND INTO PRISON,90Z,All Other Offenses,Crime Against Society,7,0.0
+3521,DRUGS - OPIUM OR DERIVATIVE - SMUGGLE,35A,Drug/Narcotic Violations,Crime Against Society,7,0.0
+3583,DRUGS - BARBITURATE (DESCRIBE OTHER),35A,Drug/Narcotic Violations,Crime Against Society,7,0.0
+4002,COMM SEX OFF - PROCURE FOR PROSTITUTE (PIMPING),40B,Assisting or Promoting Prostitution,Crime Against Society,7,0.0
+5207,WEAPON - INCENDIARY DEVICE - POSSESS,520,Weapon Law Violations,Crime Against Society,7,0.0
+4902,ESCAPE - FLIGHT TO AVOID,90Z,All Other Offenses,Crime Against Society,7,0.0
+2312,LARCENY - FROM INTERSTATE SHIPMENT,23H,All other Larceny,Crime Against Property,6,0.0
+4007,COMM SEX OFF - PROCURE PROSTITUTE - MINOR,40B,Assisting or Promoting Prostitution,Crime Against Society,6,0.0
+1010,KIDNAP - MINOR PARENTAL,100,Kidnapping/Abduction,Crime Against Person,6,0.0
+5317,VIOLATION OF EMERGENCY ORDER - NON-ESSENTIAL TRAV,90Z,All Other Offenses,Crime Against Society,6,0.0
+1008,ABDUCT - NO RANSOM OR ASSAULT,100,Kidnapping/Abduction,Crime Against Person,6,0.0
+FTAS,FAILURE TO APPEAR - NON SUPPORT,90Z,All Other Offenses,Crime Against Society,5,0.0
+2705,EMBEZZLE - POSTAL,270,Embezzlement,Crime Against Property,5,0.0
+4805,OBSTRUCT POLICE - WITNESS - DISSUADING,90Z,All Other Offenses,Crime Against Society,5,0.0
+2102,EXTORT - THREAT DAMAGE PROP,210,Extortion/Blackmail,Crime Against Property,5,0.0
+3610,HOMOSEXUAL ACT WITH MAN,11A,Forcible Rape,Crime Against Person,5,0.0
+5013,CONDIT RELEASE VIOLATION,90Z,All Other Offenses,Crime Against Society,5,0.0
+1601,THREAT - FEDERAL PROTECTEES,90Z,All Other Offenses,Crime Against Society,5,0.0
+3511,DRUGS - HEROIN - SMUGGLE,35A,Drug/Narcotic Violations,Crime Against Society,5,0.0
+2702,EMBEZZLE - INTERSTATE SHIPMENT,270,Embezzlement,Crime Against Property,5,0.0
+1107,SEX ASSAULT - SODOMY-WOMAN-GUN,11A,Forcible Rape,Crime Against Person,5,0.0
+0301,ILLEGAL ENTRY,90Z,All Other Offenses,Crime Against Society,5,0.0
+5214,WEAPON - SELLING,520,Weapon Law Violations,Crime Against Society,4,0.0
+5502,HEALTH - DRUGS - MISBRANDED,90Z,All Other Offenses,Crime Against Society,4,0.0
+0910,HOMICIDE - NEGLIGENT MANSLAUGHTER,09B,Negligent Manslaughter,Crime Against Person,4,0.0
+5316,VIOLATION OF EMERGENCY ORDER - NON-ESSENTIAL BUS,90Z,All Other Offenses,Crime Against Society,4,0.0
+6412,HUMAN TRAFFICKING - INVOLUNTARY SERITUDE,64B,"Human Trafficking, Involuntary Servitude",Crime Against Person,3,0.0
+1111,SEX ASSAULT - SODOMY-WOMAN-WEAPON,11A,Forcible Rape,Crime Against Person,3,0.0
+2801,STOLEN PROPERTY - SALE OF,280,Stolen Property Offenses,Crime Against Property,3,0.0
+6300,MONEY LAUNDERING (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,3,0.0
+9005,HOMICIDE - BY NON-POLICE - JUSTIFIABLE,09C,Justifiable Homicide,Crime Against Not a Crime,3,0.0
+6201,CONSERVATION - ANIMALS (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,3,0.0
+0302,FALSE CITIZENSHIP,90Z,All Other Offenses,Crime Against Society,3,0.0
+5011,OBSTRUCT GOVT - PAROLE VIOLATION,90Z,All Other Offenses,Crime Against Society,3,0.0
+5201,WEAPON - ALTERING IDENTIFICATION ON,520,Weapon Law Violations,Crime Against Society,3,0.0
+5801,SMUGGLING - CONTRABAND,90Z,All Other Offenses,Crime Against Society,3,0.0
+6101,INCOME TAX (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,3,0.0
+3501,DRUGS - HALLUCINOGEN - MFR,35A,Drug/Narcotic Violations,Crime Against Society,2,0.0
+2805,STOLEN PROPERTY - CONCEAL,280,Stolen Property Offenses,Crime Against Property,2,0.0
+2704,EMBEZZLE - PUBLIC PROP,270,Embezzlement,Crime Against Property,2,0.0
+5706,INVASION PRIVACY - OPENING SEALED COMMUNICATION,90Z,All Other Offenses,Crime Against Society,2,0.0
+5899,SMUGGLING (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,2,0.0
+1499,ABORTION,90Z,All Other Offenses,Crime Against Society,2,0.0
+1021,FALSE IMPRISONMENT - MINOR - PARENTAL,90Z,All Other Offenses,Crime Against Society,2,0.0
+3702,OBSCENE MATERIAL - SELL,370,Pornography/Obscene Material,Crime Against Society,2,0.0
+3803,FAMILY OFFENSE - CRUELTY TOWARD WIFE,90F,"Family Offenses, NonViolent",Crime Against Society,2,0.0
+3804,FAMILY OFFENSE - BIGAMY,90Z,All Other Offenses,Crime Against Society,2,0.0
+4806,OBSTRUCT POLICE - WITNESS - DECEIVING,90Z,All Other Offenses,Crime Against Society,2,0.0
+4810,OBSTRUCT POLICE - ILLEGAL ARREST,90Z,All Other Offenses,Crime Against Society,2,0.0
+1105,SEX ASSAULT - SODOMY-MAN-GUN,11A,Forcible Rape,Crime Against Person,2,0.0
+4999,ESCAPE/FLIGHT (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,2,0.0
+5307,PUBLIC PEACE - ASSEMBLY - UNLAWFUL,90Z,All Other Offenses,Crime Against Society,2,0.0
+2904,DAMAGE PROPERTY - BUSINESS-WITH EXPLOSIVE,290,Destruction/Damage/Vandalism of Property,Crime Against Property,2,0.0
+0104,SABOTAGE,90Z,All Other Offenses,Crime Against Society,1,0.0
+6205,CONSERVATION - ENVIRONMENT (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,1,0.0
+4001,COMM SEX OFF - KEEPING HOUSE ILL FAME,40B,Assisting or Promoting Prostitution,Crime Against Society,1,0.0
+0913,HOMICIDE - JOHN OR JANE DOE - NO WARRANT,09A,Murder and Nonnegligent Manslaughter,Crime Against Person,1,0.0
+1001,KIDNAP MINOR FOR RANSOM,100,Kidnapping/Abduction,Crime Against Person,1,0.0
+1002,KIDNAP ADULT FOR RANSOM,100,Kidnapping/Abduction,Crime Against Person,1,0.0
+1007,KIDNAP HOSTAGE FOR ESCAPE,100,Kidnapping/Abduction,Crime Against Person,1,0.0
+1106,SEX ASSAULT - SODOMY-GIRL-GUN,11A,Forcible Rape,Crime Against Person,1,0.0
+1110,SEX ASSAULT - SODOMY-GIRL-WEAPON,11A,Forcible Rape,Crime Against Person,1,0.0
+1402,ABORTIONAL ACT OF SELF,90Z,All Other Offenses,Crime Against Society,1,0.0
+2405,AUTO THEFT - THEFT VEHICLE BY BAILEE,240,Motor Vehicle Theft,Crime Against Property,1,0.0
+2802,STOLEN PROPERTY - TRANSPORT INTERSTATE,280,Stolen Property Offenses,Crime Against Property,1,0.0
+2906,DAMAGE PROPERTY - PUBLIC-WITH EXPLOSIVE,290,Destruction/Damage/Vandalism of Property,Crime Against Property,1,0.0
+3570,DRUGS - AMPHETAMINE - MANUFACTURE,35A,Drug/Narcotic Violations,Crime Against Society,1,0.0
+3580,DRUGS - BARBITURATE - MANUFACTURE,35A,Drug/Narcotic Violations,Crime Against Society,1,0.0
+3607,SEX OFFENSE - INCEST WITH ADULT,36A,Incest,Crime Against Person,1,0.0
+3907,GAMBLING - DICE GAME,39B,Operating/Promoting/Assisting Gambling,Crime Against Society,1,0.0
+4006,COMM SEX OFF - TRANSPORT FEMALE INTERSTATE FOR IMM,40B,Assisting or Promoting Prostitution,Crime Against Society,1,0.0
+6103,TAX - LIQUOR (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,1,0.0
+4101,LIQUOR - MANUFACTURE,90G,Liquor Law Violations,Crime Against Society,1,0.0
+4808,COMPOUNDING CRIME,90Z,All Other Offenses,Crime Against Society,1,0.0
+4812,FAILURE REPORT CRIME,90Z,All Other Offenses,Crime Against Society,1,0.0
+5002,BAIL - PERSON RECOG,90Z,All Other Offenses,Crime Against Society,1,0.0
+5003,OBSTRUCT GOVT - PERJURY,90Z,All Other Offenses,Crime Against Society,1,0.0
+5008,OBSTRUCT GOVT - MISCONDUCT - JUDIC OFFICER,90Z,All Other Offenses,Crime Against Society,1,0.0
+5014,MANDATORY RELEASE VIOLATION,90Z,All Other Offenses,Crime Against Society,1,0.0
+5102,BRIBERY - OFFERING BRIBE,510,Bribery,Crime Against Property,1,0.0
+5199,BRIBERY (DESCRIBE OFFENSE),510,Bribery,Crime Against Property,1,0.0
+5205,WEAPON - EXPLOSIVES - TRANSPORTING,520,Weapon Law Violations,Crime Against Society,1,0.0
+5402,TRANSPORTING DANGEROUS MATERIALS,90Z,All Other Offenses,Crime Against Society,1,0.0
+5501,HEALTH - DRUGS - ADULTERATED,90Z,All Other Offenses,Crime Against Society,1,0.0
+5703,INVASION PRIVACY - DIVULGE MESSAGE CONTENTS,90Z,All Other Offenses,Crime Against Society,1,0.0
+6099,ANTITRUST (DESCRIBE OFFENSE),90Z,All Other Offenses,Crime Against Society,1,0.0
+NSUP,NON SUPPORT,90Z,All Other Offenses,Crime Against Society,1,0.0
