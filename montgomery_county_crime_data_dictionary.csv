@@ -1,0 +1,31 @@
+Col_Number,Original Data set Naming,Canonical_Name,Technical_Definition_and_Analytical_Role
+1,Incident ID,Incident ID,"Unique system-generated primary key for each individual offense entry in the database (467,601 unique values; 40,505 exact duplicates removed during cleaning)."
+2,Offence Code,Offense Code,Internal Montgomery County statutory/local offense classification code (360 unique codes) mapping to specific state or county criminal violations.
+3,CR Number,CR Number,"Case Report Number (467,534 unique values). Groups offenses belonging to the same police investigation/incident report."
+4,Dispatch Date / Time,Dispatch Date/Time,"Timestamp when Emergency Communications (911/CAD) assigned and notified a police unit to respond. Missing in 14.45% of records (73,405 rows) where reports were filed via walk-in, phone, or online without unit dispatch."
+5,Start_Date_Time,Start Date/Time,Reported or estimated date and time when the criminal offense began (supplied by the reporting party). Complete (0% missing) and serves as the primary temporal anchor.
+6,End_Date_Time,End Date/Time,"Reported or estimated date and time when the offense concluded (e.g., the end of an overnight window when a vehicle was parked). Null in 55.59% of rows for instantaneous offenses."
+7,NIBRS Code,NIBRS Code,"Standardized federal FBI National Incident-Based Reporting System offense code (54 unique categories, e.g., 13B for Simple Assault, 23F for Theft from Motor Vehicle)."
+8,Victims,Victims,Count of individual victims associated with that specific offense row (ranges from 1 to 10 in this dataset).
+9,Crime Name1,Crime Name 1,"Highest-level NIBRS crime taxonomy (4 values: Crime Against Person, Crime Against Property, Crime Against Society, and Not a Crime / Other)."
+10,Crime Name2,Crime Name 2,"Intermediate NIBRS offense group (54 categories, e.g., Simple Assault, All Other Larceny, Drug/Narcotic Violations), matching NIBRS Code 1-to-1."
+11,Crime Name3,Crime Name 3,"Granular local offense description (360 descriptions, e.g., ASSAULT - 2ND DEGREE, LARCENY - FROM AUTO), matching Offence Code 1-to-1."
+12,Police District Name,Police District Name,"Name of the Montgomery County police district where the offense occurred (8 values, e.g., SILVER SPRING, WHEATON, GERMANTOWN, BETHESDA, ROCKVILLE, MONTGOMERY VILLAGE)."
+13,Block Address,Block Address,"Privacy-redacted street address rounded to the hundred-block level (e.g., 1000 BLK MILESTONE DR). Null (7.83%) for sensitive offenses (e.g., domestic violence, sexual offenses) to protect victim privacy."
+14,City,City,Postal city or unincorporated community name (314 raw values due to casing/spelling variations).
+15,State,State,Two-letter US state abbreviation (MD for Maryland; 12 raw unique values reflect minor out-of-state or clerical entry noise).
+16,Zip Code,Zip Code,5-digit US Postal Service ZIP code (206 unique values; stored as float due to 0.68% missing values).
+17,Agency,Agency,"Originating law enforcement agency (8 agencies, led by MCPD [Montgomery County Police Dept], alongside municipal departments RCPD [Rockville], GPD [Gaithersburg], TPPD [Takoma Park], and MCSO [Sheriff's Office])."
+18,Place,Place,"Physical premise or location type where the crime occurred (100 categories, e.g., Residence - Single Family, Street - Commercial, Parking Lot - Commercial, Retail - Mall)."
+19,Sector,Sector,"Sub-district patrol sector letter code (16 values, e.g., I, N, P) used for tactical patrol deployment."
+20,Beat,Beat,"Granular patrol beat identifier (60 values, e.g., 3I1, 5N1) combining district number, sector letter, and beat number."
+21,PRA,PRA,Police Reporting Area (808 micro-geographic zones) used by MCPD for fine-grained crime mapping and resource allocation.
+22,Address Number,Address Number,"Parsed hundred-block numeric component of the address (e.g., 1000.0)."
+23,Street Prefix,Street Prefix,"Pre-directional compass indicator (N, S, E, W); 95.56% null because most streets do not carry directional prefixes."
+24,Street Name,Street Name,"Parsed core name of the street (8,156 unique street names, e.g., MILESTONE, GEORGIA)."
+25,Street Suffix,Street Suffix,Post-directional compass indicator (6 values); 98.64% null.
+26,Street Type,Street Type,"Standardized street thoroughfare abbreviation (35 types, e.g., RD, AVE, DR, BLV, PIKE)."
+27,Latitude,Latitude,"WGS84 geographic latitude coordinate. Contains 0.0 (24,648 rows / 4.85% of records) when geocoding was suppressed or unavailable."
+28,Longitude,Longitude,"WGS84 geographic longitude coordinate. Contains 0.0 (24,648 rows / 4.85% of records) for un-geocoded entries."
+29,Police District Number,Police District Number,"Short alphanumeric code corresponding to the police district (8 values, e.g., 1D through 6D, TPPD)."
+30,Location,Location,"Combined coordinate tuple formatted as '(Latitude, Longitude)' (e.g., '(39.0457, -76.992)'), redundant with columns 27 and 28."
